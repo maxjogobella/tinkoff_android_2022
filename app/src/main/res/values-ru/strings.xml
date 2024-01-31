@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gif Application</string>
+    <string name="developers_life">Developers Life</string>
+    <string name="Overall">Последние</string>
+    <string name="for_kids">Для детей</string>
+    <string name="for_adults">Для взрослых</string>
+    <string name="again">Повторить</string>
+    <string name="api_error">Произошла ошибка при загрузке данных. Проверьте подключение к сети</string>
+</resources>

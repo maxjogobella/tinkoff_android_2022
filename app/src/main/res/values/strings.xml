@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gif Application</string>
+    <string name="developers_life">Developers Life</string>
+    <string name="Overall">Overall</string>
+    <string name="for_kids">For kids</string>
+    <string name="for_adults">For adults</string>
+    <string name="api_error">The error occurred while loading data. Please check your network connection</string>
+    <string name="again">Try again</string>
+</resources>
